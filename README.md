@@ -57,8 +57,7 @@
 
 ### 📫 Contact
 **Email:** [saulpadilla1811@gmail.com](mailto:saulpadilla1811@gmail.com)  
-**Location:** Buenos Aires, Argentina  
-**Phone:** +54 9 11 5335-2886  
+**Location:** Argentina  
 **Portfolio:** [github.com/Saul1218](https://github.com/Saul1218)
 
 <p align="center">
